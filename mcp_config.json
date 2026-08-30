@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "skylark-monday-bi": {
+      "command": "npx",
+      "args": ["-y", "tsx", "scripts/monday_mcp_server.ts"],
+      "env": {
+        "MONDAY_API_KEY": ""
+      }
+    }
+  }
+}

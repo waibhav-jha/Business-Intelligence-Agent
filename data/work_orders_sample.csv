@@ -1,0 +1,10 @@
+Work Order Name,Client,Sector,Status,Survey Area,Flight Date,Delivery Date,Expected Delivery Date,Billing Status,Ops Lead,Drone Model,Weather Delay Days,Issues Log
+Adani 500MW Thermal Flight Ops - Phase 1,Adani Green Energy,Solar,Delivered,45 sq km,2024-08-20,2024-08-28,2024-08-27,Paid,Captain Devraj,Skylark Surveyor Pro V2,0,Flawless mission. Delivered high-precision thermal orthomosaic.
+Tata Power 220kV Transmission Corridor Survey,Tata Power Ltd,Powerlines,In Progress,120 km,2024-08-25,,2024-09-10,Pending Milestone,Karan Nair,Skylark Long-Range LiDAR Wing,4,Heavy monsoon rains caused 4 days flight standby in Western Ghats.
+NHAI Expressway 120km QA As-Built Inspection,NHAI,Highways,Quality Review,120 km,2024-07-10,,2024-07-25,Billed,Captain Devraj,Skylark Surveyor Pro,2,Point cloud density check in progress. GCP alignment verified.
+Vedanta Zinc Geotechnical Highwall Scan,Vedanta Ltd,Mining,Data Processing,18 sq km,2024-08-12,,2024-08-22,Pending Milestone,Karan Nair,Skylark Matrice 350 RTK,0,Heavy point cloud processing taking longer due to dense 3D meshes.
+Azure 300MW Solar Commissioning Survey,Azure Power Solar,Solar,Delivered,28 sq km,2024-08-05,2024-08-14,2024-08-15,Paid,Amit Verma,Skylark Surveyor Pro V2,0,Delivered ahead of schedule. Client approved milestone.
+UltraTech Limestone Bench & Boundary Scan,UltraTech Cement,Mining,Delivered,35 sq km,2024-06-02,2024-06-12,2024-06-10,Paid,Amit Verma,Skylark Surveyor Pro,1,Completed successfully.
+Coal India Dhanbad Mine Stockpile Audit,Coal India Limited,Mining,On Hold,60 sq km,,,2024-09-05,Pending Milestone,Karan Nair,Skylark Matrice 350 RTK,6,DGCA airspace permission pending local district magistrate clearance.
+L&T Metro Alignment Ground Elevation Scan,L&T Construction,Infrastructure,Scheduled,45 km,2024-09-15,,2024-09-28,Not Billed,Captain Devraj,Skylark Long-Range LiDAR Wing,0,Flight team mobilized. Ground control points marked.
+Surat Urban Riverfront Drone Mapping,Surat Urban Development,Urban,Cancelled,15 sq km,,,2024-05-01,Not Billed,Amit Verma,Skylark Surveyor Pro,0,Tender cancelled by municipality.
