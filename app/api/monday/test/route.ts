@@ -2,6 +2,12 @@ import { NextRequest, NextResponse } from 'next/server';
 import { MondayClient } from '@/lib/monday/client';
 import { setMondayConfig } from '@/app/api/data/store';
 
+export const dynamic = 'force-static';
+
+export async function GET() {
+  return NextResponse.json({ success: true, message: 'Monday.com Connection Test API Ready' });
+}
+
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json();

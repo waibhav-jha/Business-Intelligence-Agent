@@ -1,6 +1,8 @@
 import { NextResponse } from 'next/server';
 import { getStore } from '@/app/api/data/store';
 
+export const dynamic = 'force-static';
+
 export async function GET() {
   try {
     const store = getStore();

@@ -2,6 +2,12 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getStore } from '@/app/api/data/store';
 import { executeBIQuery } from '@/lib/agent/query_engine';
 
+export const dynamic = 'force-static';
+
+export async function GET() {
+  return NextResponse.json({ success: true, message: 'Skylark BI Query API' });
+}
+
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
